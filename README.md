@@ -15,11 +15,11 @@ Aprendendo todos os dias e aberto a colaborações em projetos de código aberto
 
 <br>
 
-### 🧰 Ferramentas:
+div>### 🧰 Ferramentas:
 <div id="badges" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="git logo" /> &nbsp;&nbsp;&nbsp;&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22" alt="github logo" />&nbsp;&nbsp;&nbsp;&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /> &nbsp;&nbsp;&nbsp;&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="30" alt="github logo" />&nbsp;&nbsp;&nbsp;&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
 </div>
 
 <br>
