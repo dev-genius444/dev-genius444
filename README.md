@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 eu sou o Francisco!
-Desenvolvedor Front-End em constante evolução. Adoro transformar ideias criativas em interfaces interativas, limpas e responsivas.
-Atualmente focado em dominar o ecossistema do React e aprimorar minhas habilidades em JavaScript.
+Desenvolvedor Front-End em constante evolução.Atualmente focado em dominar o ecossistema do React e aprimorar minhas habilidades em JavaScript.
 Aprendendo todos os dias e aberto a colaborações em projetos de código aberto!
 
 <br>
