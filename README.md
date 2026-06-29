@@ -1,6 +1,6 @@
-## Hi there 👋
+## Olá, seja bem-vindo! 👋
 
-eu sou o Francisco!
+Eu sou o Francisco!
 Desenvolvedor Front-End em constante evolução.Atualmente focado em dominar o ecossistema do React e aprimorar minhas habilidades em JavaScript.
 Aprendendo todos os dias e aberto a colaborações em projetos de código aberto!
 
