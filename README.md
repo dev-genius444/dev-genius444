@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**dev-genius444/dev-genius444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu sou o Francisco!
+Desenvolvedor Front-End em constante evolução. Adoro transformar ideias criativas em interfaces interativas, limpas e responsivas.
+Atualmente focado em dominar o ecossistema do React e aprimorar minhas habilidades em JavaScript.
+Aprendendo todos os dias e aberto a colaborações em projetos de código aberto!
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Linguagens, Web & Frameworks/Bibliotecas:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="html5 logo" /> HTML5
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="css3 logo" /> CSS3
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="javascript logo" /> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" alt="react logo" /> React.js
+
+<br>
+
+### 🧰 Ferramentas:
+<div id="badges" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="git logo" /> &nbsp;&nbsp;&nbsp;&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22" alt="github logo" />&nbsp;&nbsp;&nbsp;&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22" alt="vscode logo" />
+</div>
+
+<br>
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dev-genius444&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
